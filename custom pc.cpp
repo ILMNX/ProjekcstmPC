@@ -11,7 +11,8 @@ using namespace std;
 - Array
 - Fungsi[]
 */
-    int qty[15];
+ 	//deklarasi global variabel
+	int qty[15];
 	int hasil1 = 0;
 	int hasil2=0;
 	int hasil3 =0;
